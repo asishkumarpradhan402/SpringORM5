@@ -1,0 +1,6 @@
+com\main\model\Student.class
+com\main\config\AppConfiguration.class
+com\main\model\Course.class
+com\main\config\ApplicationContextLoad.class
+com\main\SpringORMApplication.class
+com\main\dao\StudentDao.class
